@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://a92tena.github.io/MarkDown2/'
 languageCode = 'en-us'
 title = 'Markdown'
 theme ='relearn'
