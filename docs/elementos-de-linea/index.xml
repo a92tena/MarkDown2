@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elementos de linea on Markdown</title>
-    <link>https://example.org/elementos-de-linea/index.html</link>
+    <link>https://a92tena.github.io/MarkDown2/elementos-de-linea/index.html</link>
     <description>Recent content in Elementos de linea on Markdown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Nov 2023 20:54:19 +0100</lastBuildDate>
-    <atom:link href="https://example.org/elementos-de-linea/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://a92tena.github.io/MarkDown2/elementos-de-linea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Imagenes</title>
-      <link>https://example.org/elementos-de-linea/imagenes/index.html</link>
+      <link>https://a92tena.github.io/MarkDown2/elementos-de-linea/imagenes/index.html</link>
       <pubDate>Thu, 02 Nov 2023 20:56:26 +0100</pubDate>
-      <guid>https://example.org/elementos-de-linea/imagenes/index.html</guid>
+      <guid>https://a92tena.github.io/MarkDown2/elementos-de-linea/imagenes/index.html</guid>
       <description>Se usan de la siguiente forma: Insertar una imagen con Markdown se realiza de una manera prácticamente idéntica a insertar links.
 Solo que en este caso, deberás añadir un símbolo de ! exclamación al principio y el enlace no será otro que la ubicación de la imagen.
 ![Texto alternativo](/ruta/a/la/imagen.jpg) </description>
     </item>
     <item>
       <title>Codigo</title>
-      <link>https://example.org/elementos-de-linea/codigo/index.html</link>
+      <link>https://a92tena.github.io/MarkDown2/elementos-de-linea/codigo/index.html</link>
       <pubDate>Thu, 02 Nov 2023 20:56:18 +0100</pubDate>
-      <guid>https://example.org/elementos-de-linea/codigo/index.html</guid>
+      <guid>https://a92tena.github.io/MarkDown2/elementos-de-linea/codigo/index.html</guid>
       <description>Se usan de la siguiente forma: En según que tipo de publicaciones (sobre todo las de carácter técnico), necesitarás añadir pequeñas secciones donde mostrar código de otro lenguaje, atajos de teclado, o demás contenido que no debería ser tratado como tal.
 Para ello tienes disponible dos alternativas.
 Esto es una línea de código
@@ -29,9 +29,9 @@ Esto es una línea de código
     </item>
     <item>
       <title>Links o Enlaces</title>
-      <link>https://example.org/elementos-de-linea/links/index.html</link>
+      <link>https://a92tena.github.io/MarkDown2/elementos-de-linea/links/index.html</link>
       <pubDate>Thu, 02 Nov 2023 20:56:12 +0100</pubDate>
-      <guid>https://example.org/elementos-de-linea/links/index.html</guid>
+      <guid>https://a92tena.github.io/MarkDown2/elementos-de-linea/links/index.html</guid>
       <description>Se usan de la siguiente forma: on los enlaces de toda la vida. Como su nombre indica, se encuentran en línea con el texto.
 Se crean escribiendo la palabra o texto enlazada entre [] corchetes, y el link en cuestión entre () paréntesis.
 La pagina de toda la informacion
@@ -39,9 +39,9 @@ MARKDOWN	RESULTADO [enlace en línea](http://www.limni.net)	enlace en línea </d
     </item>
     <item>
       <title>Enfasis</title>
-      <link>https://example.org/elementos-de-linea/enfasis/index.html</link>
+      <link>https://a92tena.github.io/MarkDown2/elementos-de-linea/enfasis/index.html</link>
       <pubDate>Thu, 02 Nov 2023 20:56:02 +0100</pubDate>
-      <guid>https://example.org/elementos-de-linea/enfasis/index.html</guid>
+      <guid>https://a92tena.github.io/MarkDown2/elementos-de-linea/enfasis/index.html</guid>
       <description>Se usan de la siguiente forma: Markdown utiliza asteriscos o guiones bajos para enfatizar.
 Simplemente tendrás que envolver palabras o textos en éstos símbolos para conseguir cursivas o negritas.
 cursiva	cursiva cursiva	cursiva negrita	negrita negrita	negrita

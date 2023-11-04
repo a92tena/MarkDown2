@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elementos de bloque on Markdown</title>
-    <link>https://example.org/elementos-de-bloque/index.html</link>
+    <link>https://a92tena.github.io/MarkDown2/elementos-de-bloque/index.html</link>
     <description>Recent content in Elementos de bloque on Markdown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Nov 2023 20:54:30 +0100</lastBuildDate>
-    <atom:link href="https://example.org/elementos-de-bloque/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://a92tena.github.io/MarkDown2/elementos-de-bloque/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reglas Horizontales</title>
-      <link>https://example.org/elementos-de-bloque/reglas/index.html</link>
+      <link>https://a92tena.github.io/MarkDown2/elementos-de-bloque/reglas/index.html</link>
       <pubDate>Thu, 02 Nov 2023 20:55:50 +0100</pubDate>
-      <guid>https://example.org/elementos-de-bloque/reglas/index.html</guid>
+      <guid>https://a92tena.github.io/MarkDown2/elementos-de-bloque/reglas/index.html</guid>
       <description>Se usan de la siguiente forma: Para realizar un salto de línea y empezar una frase en una línea siguiente dentro del mismo párrafo, tendrás que pulsar dos veces la barra espaciadora antes de pulsar una vez intro.</description>
     </item>
     <item>
       <title>Codigo de Bloque</title>
-      <link>https://example.org/elementos-de-bloque/codigobloque/index.html</link>
+      <link>https://a92tena.github.io/MarkDown2/elementos-de-bloque/codigobloque/index.html</link>
       <pubDate>Thu, 02 Nov 2023 20:55:39 +0100</pubDate>
-      <guid>https://example.org/elementos-de-bloque/codigobloque/index.html</guid>
+      <guid>https://a92tena.github.io/MarkDown2/elementos-de-bloque/codigobloque/index.html</guid>
       <description>Se usan de la siguiente forma: Si quieres crear un bloque entero que contenga código. Lo único que tienes que hacer es encerrar dicho párrafo entre dos líneas formadas por tres ~ virgulillas.
 Tal que así:
 Creando códigos de bloque. Puedes añadir tantas líneas y párrafos como quierasy se hace asi:
@@ -27,9 +27,9 @@ Creando códigos de bloque. Puedes añadir tantas líneas y párrafos como quier
     </item>
     <item>
       <title>Listas</title>
-      <link>https://example.org/elementos-de-bloque/listas/index.html</link>
+      <link>https://a92tena.github.io/MarkDown2/elementos-de-bloque/listas/index.html</link>
       <pubDate>Thu, 02 Nov 2023 20:55:26 +0100</pubDate>
-      <guid>https://example.org/elementos-de-bloque/listas/index.html</guid>
+      <guid>https://a92tena.github.io/MarkDown2/elementos-de-bloque/listas/index.html</guid>
       <description>Se usan de la siguiente forma: A diferencia de lo que ocurre en HTML, generar listas en Markdown es tremendamente sencillo. Puedes encontrarte con dos tipos.
 Listas desordenadas Para crear listas desordenadas utiliza * asteriscos, - guiones, o + símbolo de suma.
 Elemento de lista 1 Elemento de lista 2 Elemento de lista 3 Elemento de lista 4 Elemento de lista 5
@@ -38,26 +38,26 @@ Elemento de lista 6
     </item>
     <item>
       <title>Citas</title>
-      <link>https://example.org/elementos-de-bloque/citas/index.html</link>
+      <link>https://a92tena.github.io/MarkDown2/elementos-de-bloque/citas/index.html</link>
       <pubDate>Thu, 02 Nov 2023 20:55:18 +0100</pubDate>
-      <guid>https://example.org/elementos-de-bloque/citas/index.html</guid>
+      <guid>https://a92tena.github.io/MarkDown2/elementos-de-bloque/citas/index.html</guid>
       <description>Se usan de la siguiente forma: Las citas se generar utilizando el carácter mayor que &amp;gt; al comienzo del bloque de texto.
 Un país, una civilización se puede juzgar por la forma en que trata a sus animales. — Mahatma Gandhi
 &amp;gt; Un país, una civilización se puede juzgar por la forma en que trata a sus animales. — Mahatma Gandhi ~~~</description>
     </item>
     <item>
       <title>Encabezados</title>
-      <link>https://example.org/elementos-de-bloque/encabezados/index.html</link>
+      <link>https://a92tena.github.io/MarkDown2/elementos-de-bloque/encabezados/index.html</link>
       <pubDate>Thu, 02 Nov 2023 20:55:12 +0100</pubDate>
-      <guid>https://example.org/elementos-de-bloque/encabezados/index.html</guid>
+      <guid>https://a92tena.github.io/MarkDown2/elementos-de-bloque/encabezados/index.html</guid>
       <description>Se usan de la siguiente forma: Las # almohadillas son uno de los métodos utilizados en Markdown para crear encabezados. Debes usarlos añadiendo uno por cada nivel.
 # Encabezado 1 ## Encabezado 2 ### Encabezado 3 #### Encabezado 4 ##### Encabezado 5 ###### Encabezado 6 </description>
     </item>
     <item>
       <title>Parrafos</title>
-      <link>https://example.org/elementos-de-bloque/parrafos/index.html</link>
+      <link>https://a92tena.github.io/MarkDown2/elementos-de-bloque/parrafos/index.html</link>
       <pubDate>Thu, 02 Nov 2023 20:55:03 +0100</pubDate>
-      <guid>https://example.org/elementos-de-bloque/parrafos/index.html</guid>
+      <guid>https://a92tena.github.io/MarkDown2/elementos-de-bloque/parrafos/index.html</guid>
       <description>Se usan de la siguiente forma: Para generar un nuevo párrafo en Markdown simplemente separa el texto mediante una línea en blanco (pulsando dos veces intro)
 como este</description>
     </item>

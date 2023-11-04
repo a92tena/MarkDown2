@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown</title>
-    <link>https://example.org/index.html</link>
+    <link>https://a92tena.github.io/MarkDown2/index.html</link>
     <description>Recent content on Markdown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Nov 2023 20:56:26 +0100</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://a92tena.github.io/MarkDown2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elementos de bloque</title>
-      <link>https://example.org/elementos-de-bloque/index.html</link>
+      <link>https://a92tena.github.io/MarkDown2/elementos-de-bloque/index.html</link>
       <pubDate>Thu, 02 Nov 2023 20:54:30 +0100</pubDate>
-      <guid>https://example.org/elementos-de-bloque/index.html</guid>
+      <guid>https://a92tena.github.io/MarkDown2/elementos-de-bloque/index.html</guid>
       <description>Que son los elementos de bloque Todos los elementos que nos ayudan a dar forma y modificar el vistado del archivo para diferenciar los diferentes elementos que son:
 1. Citas 2. Codigo de bloque 3. Encabezados 4. Listas 5. Parafos 6. Reglas </description>
     </item>
     <item>
       <title>Elementos de linea</title>
-      <link>https://example.org/elementos-de-linea/index.html</link>
+      <link>https://a92tena.github.io/MarkDown2/elementos-de-linea/index.html</link>
       <pubDate>Thu, 02 Nov 2023 20:54:19 +0100</pubDate>
-      <guid>https://example.org/elementos-de-linea/index.html</guid>
+      <guid>https://a92tena.github.io/MarkDown2/elementos-de-linea/index.html</guid>
       <description>Que son los Elementos de linea Markdown utiliza asteriscos o guiones bajos para enfatizar.
 Simplemente tendrás que envolver palabras o textos en éstos símbolos para conseguir cursivas o negritas. Podemos encontrar:
 1. Codigo 2. Enfasis 3. Imagenes 4. links </description>
